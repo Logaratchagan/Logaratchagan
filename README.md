@@ -27,6 +27,6 @@ Website - https://logaratchagan.github.io/
 
  <p align="center"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=logaratchagan&theme=dark&hide_border=true"/>
 
- ![](https://komarev.com/ghpvc/?username=logaratchagan&color=green&style=for-the-badge)
+ ![](https://komarev.com/ghpvc/?username=antonkomarev&color=red&style=for-the-badge)
     
 
